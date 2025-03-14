@@ -24,7 +24,7 @@ This purpose of this project is to use Twitter data to analyze the use of emojis
 ## Getting Started
 
 To download the repo:
-```git clone https://github.com/HomelessSkittle/RevProject2-TeamACCE.git```
+```git clone https://github.com/ConorS0505/RevProject2-TeamACCE.git```
 
 ***IMPORTANT - In the directory for each question, be sure to create a "twitterstream" folder, or else the spark-submission will fail.***  
 Similarly, Q7 requires a "2006-2007" or a "2015" folder WITH twitterstream data from those time periods for it to run properly.
